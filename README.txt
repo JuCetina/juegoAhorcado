@@ -1,0 +1,1 @@
+Juego del Ahorcado hecho en Javascript utilizando canvas
